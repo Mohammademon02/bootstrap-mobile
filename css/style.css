@@ -5,3 +5,14 @@
 .primary-color{
     color: blue;
 }
+.stop-waiting{
+    background-image: url("../images/background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    height: 80vh;
+}
+.footer-section{
+    background-color: black;
+}
